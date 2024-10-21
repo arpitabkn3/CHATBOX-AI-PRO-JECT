@@ -17,13 +17,6 @@ This project is a **simple chatbot web application** built using **HTML, CSS, an
 - **Responsive design**: Looks great on desktops and tablets.
 - **Keyboard Shortcut Support**: Press `Enter` to send messages easily.
 
----
-
-## 🖼️ Demo Preview  
-Here’s how the chatbot looks:  
-![Chat Interface](https://img.freepik.com/free-vector/chatbot-concept-illustration_114360-3719.jpg)
-
----
 
 ## 🛠️ How to Run the Project  
 1. Clone the repository or download the source code.
